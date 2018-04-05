@@ -1,0 +1,13 @@
+.carousel {
+    max-height: 800px;
+    overflow: hidden;  
+  }
+  #carousel-item {
+    width: 100%;
+    height: auto;
+  }
+
+.aboutMe {
+    
+    text-align: center;
+}
